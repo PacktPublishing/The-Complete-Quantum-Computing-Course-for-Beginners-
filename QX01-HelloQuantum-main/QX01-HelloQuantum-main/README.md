@@ -1,0 +1,1 @@
+This repository contains Quantum Computing material with IBM Qiskit, specifically prepared for series of tutorials. This is the first circuit where we demonstrate Superposition & Entanglement with a very simple Quantum Circuit.
